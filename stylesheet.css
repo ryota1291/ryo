@@ -1,0 +1,229 @@
+header{
+    nav ul{
+        font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+        padding-left:0px;
+        padding-right:0px;
+        margin-top:0px;
+        margin-bottom:0px;
+        justify-content: center;
+        display: flex;
+        column-gap: 0px;
+        text-align: center;
+        list-style: none;
+        color: black;
+        background-image: url(/Users/ryota129/Downloads/Documents/Downloads/yy.jpg);
+    }
+    text-align: center;
+    color: black;
+    background-image: url(/Users/ryota129/Downloads/Documents/Downloads/Downloads/2024-04-03_01h24_31.webp);
+    img{
+        width: 1425px;
+        height:600px;
+    }
+    a{
+        color: yellowgreen;
+        background-color: black;
+    }
+}
+
+main{
+    nav ul{
+        padding-left:0px;
+        padding-right:0px;
+        margin-top:0px;
+        margin-bottom:0px;
+        justify-content: center;
+        display: flex;
+        column-gap: 0px;
+        text-align: center;
+        list-style: none;
+        color: black;
+        background-color: white;
+    }
+    text-align: center;
+    color: black;
+    background-color: white;
+    img{
+        width: 1425px;
+        height:600px;
+    }
+    a{
+        color: black;
+        background-color: sandybrown;
+    }
+    b{
+        color: black;
+        background-color: paleturquoise;
+    }
+}
+
+footer{
+    nav ul{
+        padding-left:0px;
+        padding-right:0px;
+        margin-top:0px;
+        margin-bottom:0px;
+        justify-content: center;
+        display: flex;
+        column-gap: 0px;
+        text-align: center;
+        list-style: none;
+        color: black;
+        background-color: white;
+    }
+    text-align: center;
+    color: black;
+    background-color: white;
+    img{
+        width: 1425px;
+        height:800px;
+    }
+    a{
+        color: black;
+        background-color: sandybrown;
+    }
+    b{
+        color: black;
+        background-color: paleturquoise;
+    }
+}
+
+gmail{
+    nav ul{
+        padding-left:0px;
+        padding-right:0px;
+        margin-top:0px;
+        margin-bottom:0px;
+        justify-content: center;
+        display: flex;
+        column-gap: 0px;
+        text-align: center;
+        list-style: none;
+        color: black;
+        background-color: white;
+        text-align: center;
+        color: black;
+        background-color: white;
+    }
+    text-align: center;
+    img{
+        width: 1425px;
+        height:1500px;  
+    }
+    a{
+        color: black;
+        background-color: sandybrown;
+    }
+    b{
+        color: black;
+        background-color: paleturquoise;
+    }
+    }
+
+outlook{
+nav ul{
+       padding-left:4px;
+       padding-right:4px;
+       margin-top:30px;
+       margin-bottom:30px;
+       justify-content: center;
+       display: flex;
+       column-gap: 4px;
+       text-align: center;
+       list-style: none;
+       color: black;
+       background-COLOR: width;
+}
+       text-align: center;
+       color: black;
+       background-color: white;
+
+img{
+       width: 550px;
+       height:300px;
+}
+a{
+       color: black;
+       background-color: sandybrown;
+}
+b{
+       color: black;
+       background-color: paleturquoise;
+}
+}
+
+tt{
+    nav ul{
+       padding-left:0px;
+       padding-right:0px;
+       margin-top:0px;
+       margin-bottom:0px;
+       justify-content: center;
+       display: flex;
+       column-gap: 0px;
+       text-align: center;
+       list-style: none;
+       color: black;
+       background-color: white;
+    }
+       text-align: center;
+       color: black;
+       background-color: white;
+    img{
+        width: 1425px;
+        height:1500px; 
+    }
+    a{
+        color: black;
+    }
+    b{
+        color: black;
+        background-color: paleturquoise;
+    }
+}
+   
+red{
+    nav ul{
+        padding-left:0px;
+        padding-right:0px;
+        margin-top:0px;
+        margin-bottom:0px;
+        justify-content: center;
+        display: flex;
+        column-gap: 0px;
+        text-align: center;
+        list-style: none;
+        color: black;
+        background-color: white;
+    }
+        text-align: center;
+        color: black;
+        background-color: white;
+    img{
+        width: 1425px;
+        height:800px;
+    }
+}
+
+uud{
+    nav ul{
+        padding-left:0px;
+        padding-right:0px;
+        margin-top:0px;
+        margin-bottom:0px;
+        justify-content: center;
+        display: flex;
+        column-gap: 0px;
+        text-align: center;
+        list-style: none;
+        color: black;
+        background-color: white;
+    }
+        text-align: center;
+        color: black;
+        background-color: white;
+    img{
+        width: 1425px;
+        height:800px;
+    }
+}
